@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://chasohdee.x3m.io/sitemap.xml
